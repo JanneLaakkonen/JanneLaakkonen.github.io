@@ -6,7 +6,7 @@ subtitle: Doctoral Researcher, <a href="https://www.uef.fi">University of Easter
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Computing</p>
