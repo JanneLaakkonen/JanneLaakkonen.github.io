@@ -21,6 +21,18 @@ latest_posts:
   enabled: false
   
 ---
+<style>
+  @media (max-width: 575.98px) {
+    .profile {
+      width: 42%;
+      max-width: 150px;
+      float: right;
+      margin-left: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    .profile .more-info { display: none; }
+  }
+</style>
 
 I am a doctoral researcher at the School of Computing, University of Eastern Finland, and a member of the [Finnish Doctoral Program Network in Artificial Intelligence (AI-DOC)](https://fcai.fi/ai-doc/about), hosted by the Finnish Center for Artificial Intelligence (FCAI).
 
